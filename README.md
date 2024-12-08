@@ -1,0 +1,2 @@
+# dod
+creating algorithm 
